@@ -1,0 +1,29 @@
+Assignment 1 –Server-Side Scripting with ASP.NET
+Project Plan Template
+
+Before submitting this document, you must first submit your project idea and receive instructor approval at https://fall20projects.azurewebsites.net. First choose your section and review the list of projects already submitted to ensure your application is unique.  You cannot build an online store for this assignment as we are doing that together in class.
+
+The application you will build will be done in 4 parts (this being the first) over the semester for a total of 45% of your overall grade.
+
+1.	Project Proposal - 5%
+2.	CRUD Functionality - 15%
+3.	Authentication - 10%
+4.	Unit Testing - 10%
+
+Student Name: 
+Nevin Reby Thomas
+
+Purpose of your application: (2 marks)
+Idea for a Project: "Random Quote Generator “Create a web application that creates inspiring or random quotes each time a user hits a button. The program can be pre-populated with a selection of sayings or messages, and JavaScript can be used to display a different one every time the button is pressed. You can, at your discretion, provide a function that enables people to contribute their own quotations or messages to the database. I'll also be adding categories and qoute with 2 relatable tables. This project is simple to build and can give users access to a stimulating and enjoyable tool. It's a great approach to practice fundamental ASP.NET.
+
+
+
+
+Why will this application be useful? (2 marks)
+If someone needs to look up a famous quote or needs a random quote this website will be useful.
+
+
+
+Private GitHub Repository Link (1 mark)
+Provide your link here and ensure you have added ifotn as collaborators in your repository Settings / Manage Access. You will use this same repository for Assignments 2, 3, and 4.
+
